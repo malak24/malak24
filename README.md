@@ -1,5 +1,1 @@
-- 👋 Hi, My name is Malak Kataie
-- 👀 I’m interested in programing, pets, embroidery and plants
-- 🌱 I’m currently building more and more experince in React and Node.js
-- 💞️ I’m looking to collaborate on other people's personal projects as well as open source projects to put myself in a real work environment!
-- 📫 How to reach me: at malakkataie@gmail.com or https://www.linkedin.com/in/malak-kataie-686b62193/
+
